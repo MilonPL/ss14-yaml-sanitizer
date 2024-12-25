@@ -36,7 +36,7 @@ pip install ruamel.yaml tqdm
 Run the sanitizer with:
 
 ```bash
-python entity_sanitizer.py --dir /path/to/your/Resources --id EntityPrototypeId --output sanitized.yml
+python yaml_sanitizer.py --dir /path/to/your/Resources --id EntityPrototypeId --output sanitized.yml
 ```
 
 Where:
